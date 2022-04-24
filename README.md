@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything related to development
 - 👯 I’m looking forward to maintain my researches and learning till the day i die !
 - 🥅 2022 Goals: Contribute more to Open source Projects, Learn more about web3 , master full-stack field
-- ⚡ Fun fact: I love to Sing , play league of legends
+- ⚡ Fun fact: I love to Sing and to play league of legends
 
 ### Connect with me:
 
