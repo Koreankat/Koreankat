@@ -2,7 +2,7 @@
 
 ## I'm a self taught Front-end Dev and HDU(china) student !!
 
-- 🌱 I’m currently learning everything related to development
+- 🌱 I’m a Space and astrophysics enthusiast and i'm currently learning everything related to development
 - 👯 I’m looking forward to maintain my researches and learning till the day i die !
 - 🥅 2022 Goals: Contribute more to Open source Projects, Learn more about web3 , master full-stack field
 - ⚡ Fun fact: I love to Sing and to play league of legends
