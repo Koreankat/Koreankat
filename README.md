@@ -1,6 +1,6 @@
 # Hi there, I'm Ali Jaafari AKA KoreanKat👋
 
-## I'm a self taught Front-end Dev and HDU(china) student !!
+## I'm a self taught Full-stack Dev and HDU(china) graduate !!
 
 - 🌱 I’m a Space and astrophysics enthusiast and i'm currently learning everything related to development
 - 👯 I’m looking forward to maintain my researches and learning till the day i die !
