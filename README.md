@@ -3,8 +3,7 @@
 ## I'm a self taught Full-stack Dev and HDU(china) CS bachelor.
 
 - 🌱 I’m a Space and astrophysics enthusiast and i'm currently learning everything related to development
-- 👯 I’m looking forward to maintain my researches and learning till the day i die !
-- 🥅 2022 Goals: Contribute more to Open source Projects, Learn more about web3 , master the MERN stack
+- 👯 I’m looking forward to maintain my researches and learning till the day i die 
 - ⚡ Fun fact: I love to Sing and to play league of legends
 
 ### Connect with me:
