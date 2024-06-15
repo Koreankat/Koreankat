@@ -4,7 +4,7 @@
 
 - 🌱 I’m a Space and astrophysics enthusiast and i'm currently learning everything related to development
 - 👯 I’m looking forward to maintain my researches and learning till the day i die 
-- ⚡ Fun fact: I love to Sing and to play league of legends
+- ⚡ About me: I'm a gym buddy, Ex: e-sport pro
 
 ### Connect with me:
 
